@@ -1,0 +1,29 @@
+What is NodeJS?
+
+A free and open source server enviornment.
+JavaScript can be used on the server.
+A single language for both forntend and backend.
+
+
+The Basics of frontend and backend--
+Front end development is programming which focuses on the visual elements of a website or app that a user will interact with (the client side). 
+
+Back end development focuses on the side of a website users can't see (the server side).
+
+
+What is node js used for?
+Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. 
+It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
+
+
+
+
+What is NodeJS vs JavaScript?
+JavaScript is a simple programming language that runs in any browser JavaScript Engine. 
+Whereas Node JS is an interpreter or running environment for a JavaScript programming language that holds many excesses,
+it requires libraries that can easily be accessed from JavaScript programming for better use.
+
+
+What is NPM?
+NPM is a package manager for Node. js packages, or modules if you like. www.npmjs.com hosts thousands of free packages to download and use.
+The NPM program is installed on your computer when you install Node.js. NPM is already ready to run on your computer!
