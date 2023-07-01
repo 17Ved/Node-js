@@ -2,7 +2,7 @@
 // node js automatically wraps all modules while using module wrapper function
 ved = {
   name: "Vedant",
-  favNum: 17,
+  favNum: 30,
   developer: true,
 };
 
